@@ -1,0 +1,10 @@
+body{
+    background: red
+}
+.global{
+    width: 100px;
+    height: 100px;
+}
+.box{
+    @extend .global;
+}
