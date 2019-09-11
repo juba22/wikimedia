@@ -1,7 +1,4 @@
 body {
-  background: #103dd1; }
-
-.global, .box {
-  width: 100px;
-  height: 100px;
-  color: red; }
+  background: #103dd1;
+  text-align: center;
+}
