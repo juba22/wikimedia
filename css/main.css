@@ -1,6 +1,7 @@
 body {
-  background: red; }
+  background: #103dd1; }
 
 .global, .box {
   width: 100px;
-  height: 100px; }
+  height: 100px;
+  color: red; }

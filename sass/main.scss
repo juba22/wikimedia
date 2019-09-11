@@ -1,9 +1,11 @@
+
 body{
-    background: red
+    background: rgb(16, 61, 209)
 }
 .global{
     width: 100px;
     height: 100px;
+    color: red;
 }
 .box{
     @extend .global;
